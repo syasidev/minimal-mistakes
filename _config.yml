@@ -15,8 +15,8 @@
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "syasidev"
+locale                   : "ko-KR"
+title                    : "Syasidev"
 title_separator          : "-"
 name                     : "Syasi"
 description              : "An amazing website."
