@@ -1,10 +1,9 @@
 ---
-title: "Post: Notice"
+title: "Notice"
 categories:
-  - Post Formats
+  - notice
 tags:
-  - Post Formats
   - notice
 ---
 
-ffff
+test
